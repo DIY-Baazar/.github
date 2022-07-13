@@ -1,4 +1,6 @@
-## Hi there 👋
+## Namaste, this is DIY Baazar
+
+DIY Baazar is an ecommerce platform that connects artisans and craftsman with buyers across the globe.
 
 <!--
 
